@@ -1,0 +1,19 @@
+# Django related
+Django==3.1.6
+django-extensions==3.1.0
+django-mysql==3.11.1
+django-service-objects==0.7.0
+djangorestframework==3.12.2
+django-environ==0.4.5
+django-redis==4.12.1
+
+# Code formatting
+black==20.8b1
+flake8==3.8.4
+isort==5.7.0
+pycodestyle==2.6.0
+
+# misc
+mysqlclient==2.0.3
+pillow==8.1.0
+
